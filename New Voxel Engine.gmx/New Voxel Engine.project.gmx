@@ -5,7 +5,18 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\CobblestoneSlab</sprite>
+    <sprite>sprites\Dirt</sprite>
+    <sprite>sprites\DirtSlab</sprite>
+    <sprite>sprites\Grass</sprite>
+    <sprite>sprites\GrassSlab</sprite>
+    <sprite>sprites\Lava</sprite>
+    <sprite>sprites\sprite9</sprite>
+    <sprite>sprites\Stone</sprite>
+    <sprite>sprites\Water</sprite>
+    <sprite>sprites\Cobblestone</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
