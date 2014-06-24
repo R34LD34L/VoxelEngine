@@ -23,6 +23,7 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
+    <script>scripts\THE_STRUGGLE.gml</script>
   </scripts>
   <help>
     <rtf>help.rtf</rtf>
